@@ -4,10 +4,10 @@ RoomEscape Application Version2
 ## View
 ![image](https://user-images.githubusercontent.com/46260973/113409738-e6e0f700-93ec-11eb-9646-d49c1cfed12f.png) ![image](https://user-images.githubusercontent.com/46260973/113409757-ee080500-93ec-11eb-86d5-8b0f21e92c12.png) ![image](https://user-images.githubusercontent.com/46260973/113409762-f19b8c00-93ec-11eb-90b4-c28c819e692e.png) ![image](https://user-images.githubusercontent.com/46260973/113409765-f3654f80-93ec-11eb-9676-32a4c463266e.png) ![image](https://user-images.githubusercontent.com/46260973/113409768-f52f1300-93ec-11eb-88b6-cf32c0f2b010.png)
 
-## 1. Developers
+## Developers
 김민지
 
-## 2. Languages & IDE
+## Languages & IDE
 - Java
 - Android Studio
 - SQLite
