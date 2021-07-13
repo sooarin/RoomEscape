@@ -14,8 +14,6 @@ RoomEscape Application Version2
 
 ## Environment
 - Window10 64bit
-- I3-7199U
-- RAM : 12GB
 
 ## Functional Description
 - 데이터베이스에 각 지역의 방탈출카페 이름과 테마들을 저장
